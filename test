@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-10T12:23:34.418Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 OPR/92.0.0.0" etag="ZNdnAC5WeKqwIv2QQAhr" version="20.5.3" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-11-10T12:25:34.720Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 OPR/92.0.0.0" etag="vSl7WOjUBwMIQxVh2xJ5" version="20.5.3" type="github" pages="4">
   <diagram id="Idbop34EDZLGFUCLRNZW" name="Page-1">
     <mxGraphModel dx="742" dy="438" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -117,7 +117,7 @@
           <mxGeometry x="320" y="80" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="OgQag9XYUkKn6lUyPwsD-2" value="end" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="138" width="120" height="80" as="geometry" />
+          <mxGeometry x="90" y="138" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="OgQag9XYUkKn6lUyPwsD-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="OgQag9XYUkKn6lUyPwsD-3" target="OgQag9XYUkKn6lUyPwsD-5">
           <mxGeometry relative="1" as="geometry" />
@@ -162,6 +162,9 @@
         </mxCell>
         <mxCell id="OgQag9XYUkKn6lUyPwsD-12" value="if lína hægra megin" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="220" y="218" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OgQag9XYUkKn6lUyPwsD-14" value="if neyðarhnappur true" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="214" y="156" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
